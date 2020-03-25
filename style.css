@@ -1,0 +1,82 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+
+}
+
+div {
+  /*border: 1px solid black;*/
+
+}
+
+h1 {
+  margin-left: 10%;
+}
+
+.container {
+  width: 80%;
+  margin: 10px auto;
+  border: 2px solid gray;
+  padding-left: 5px;
+}
+
+
+
+.color-swatch {
+  display: inline-block;
+  width: 28%;
+  min-height: 100px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.blue {
+  background-color: #2d5dcc;
+  color: white;
+}
+
+.pink {
+  background-color: #d957d9;
+}
+
+.green {
+  background-color: #4fe0b0;
+}
+
+.beige {
+  background-color: #efd9ca;
+}
+
+.font-box {
+  display: inline-block;
+  width: 40%;
+}
+
+.font-box h3 {
+  text-decoration: underline;
+}
+
+.nunito-sans {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.source-code-pro {
+  font-family: "Source Code Pro", monospace;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-heading h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Nunito Sans', sans-serif;
+  margin-left: 0;
+}
+
+.sub-heading h2{
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
